@@ -51,20 +51,20 @@
 
 
 <div align="center">
-  <img src="https://github.com/otmaneelhaddaji/otmaneelhaddaji/blob/main/img/github-contribution-grid-snake.svg"/>
+  <img src="./img/snike.svg" alt="otmane elhaddaji github contribution snake" />
 </div>
 
 
 <div align="center">
 
 <p></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmaneelhaddaji&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otmaneelhaddaji&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="elhaddaji otmane" />    
 <p></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elhaddajiotmane&theme=radical" alt="otmane el haddaji" />
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=" web deeev" /></p>
   </div>
 <p></p>
 
