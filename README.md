@@ -3,7 +3,7 @@
 <center><img  src="https://raw.githubusercontent.com/elhaddajiOtmane/elhaddajiOtmane/main/img/elhaddajiotmane%20linkden%20baner.png" alt="creation site web maroc" /></center>
 
 <h3 align="center">
- Hi, I'm Otmane, a web developer with experience in full-stack development. I am a recent graduate of ISTIA NTIC Coding Bootcamp, where I have gained the necessary knowledge and skills to develop dynamic and engaging web applications. I am highly motivated to use my expertise to create innovative solutions to challenging problems. If you would like to discuss a project or have any questions, please feel free to reach out to me via email. I look forward to hearing from you.
+ I'm Otmane, an accomplished web developer with a strong background in full-stack development. I've had the privilege of collaborating with prominent companies in the tech industry, where I've honed my skills and expertise. As a recent graduate of a prestigious coding bootcamp, I've acquired the knowledge and proficiency to craft dynamic and captivating web applications. I'm driven by a passion for tackling complex challenges with innovative solutions. If you're interested in discussing potential projects or have any questions, please don't hesitate to contact me via email.
 </h3>
 
 <p></p><p></p>
