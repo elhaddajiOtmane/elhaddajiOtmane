@@ -29,11 +29,12 @@
 ### Connect with me:
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/otmaneelhaddaji)
-[![X]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://raw.githubusercontent.com/elhaddajiOtmane/elhaddajiOtmane/main/img/x.png))](https://twitter.com/elhaddajiotmane)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elhaddajiotmane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddajiotmane)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15025720)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/elhaddajiotmane)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/elhaddajiotmane)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
