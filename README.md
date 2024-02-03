@@ -1,6 +1,6 @@
 <h1 align="center">Otmane Elhaddaji - Expert Web Developer</h1>
  
-<center><img src="https://raw.githubusercontent.com/elhaddajiOtmane/elhaddajiOtmane/main/elhaddajiotmane%20linkden%20baner.png" alt="Otmane Elhaddaji LinkedIn Banner" /></center>
+<center><img src="https://raw.githubusercontent.com/elhaddajiOtmane/elhaddajiOtmane/main/elhaddajiotmane%20linkden%20baner(1).png" alt="Otmane Elhaddaji LinkedIn Banner" /></center>
 
 <h2 align="center">About Me</h2>
 <p align="center">
