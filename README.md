@@ -6,7 +6,7 @@
 <p align="center">
  I'm Otmane, an accomplished web developer with a strong background in full-stack development. I've collaborated with prominent companies in the tech industry, honing my skills and expertise. As a recent graduate of a prestigious coding bootcamp, I've acquired the knowledge to craft dynamic web applications. I'm driven by a passion for tackling complex challenges with innovative solutions. For project discussions or questions, please contact me via email.
 </p>
-
+ 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elhaddajiotmane&style=for-the-badge&color=blueviolet" alt="Profile Views Counter" />
 </div>
