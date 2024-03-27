@@ -22,7 +22,7 @@
 <h2 align="left">My Learning Journey</h2>
 <ul>
   <li>🌱 Currently learning Node.js, React, Vue</li>
-  <li>📝 Regularly write articles on <a href="https://webnexa.net/blogs">my blog</a>.</li>
+  <li>📝 Regularly write articles on <a href="https://webnexa.net/blog">my blog</a>.</li>
   <li>💬 Ask me about PHP, JavaScript, ReactJs, Laravel, NodeJs, SQL, Python, MongoDB, Flask, Flutter</li>
 </ul>
 
