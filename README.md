@@ -26,23 +26,23 @@
   <li>💬 Ask me about PHP, JavaScript, ReactJs, Laravel, NodeJs, SQL, Python, MongoDB, Flask, Flutter</li>
 </ul>
 
-i want to add my telegram here
-
-and dicoed in raadme.md githyub
-
 ### Connect with me:
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)\](https://dev.to/otmaneelhaddaji)
+[!][Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/otmaneelhaddaji)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)\](https://twitter.com/otmane\_tech)
+[!][Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/otmane_tech)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)\](https://ma.linkedin.com/in/elhaddaji-otmane/fr)
+[!][LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/elhaddaji-otmane/fr)
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)\](https://stackoverflow.com/users/15025720)
+[!][Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15025720)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)\](https://fb.com/elhaddajiotmane)
+[!][Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/elhaddajiotmane)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)\](https://www.youtube.com/c/elhaddajiotmane)
+[!][YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/elhaddajiotmane)
+
+[!][Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/otmane_e7)
+
+[!][Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otmane_e7)
 
 
 <h3 align="left">Languages and Tools:</h3>
