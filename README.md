@@ -21,9 +21,9 @@
 
 <h2 align="left">My Learning Journey</h2>
 <ul>
-  <li>🌱 Currently learning Node.js, React, Vue</li>
-  <li>📝 Regularly write articles on <a href="https://webnexa.net/blog">my blog</a>.</li>
-  <li>💬 Ask me about PHP, JavaScript, ReactJs, Laravel, NodeJs, SQL, Python, MongoDB, Flask, Flutter</li>
+    <li>🌱 <strong>AWS Certifications</strong>: Pursuing AWS Solutions Architect and AWS Developer Associate certifications to learn how to design and implement scalable, secure, and robust solutions on AWS.</li>
+    <li>🌐 <strong>Microsoft Azure</strong>: Exploring Microsoft Azure to gain a broader understanding of multi-cloud strategies and services.</li>
+    <li>📝 <strong>Tech Blogging</strong>: Regularly sharing my learning experiences and insights on tech trends on my <a href="https://webnexa.net/blog" title="Visit Elhaddaji Otmane's tech blog">tech blog</a>.</li>
 </ul>
 
 ### Connect with me:
