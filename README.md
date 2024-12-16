@@ -55,7 +55,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otmaneelhaddaji&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="Otmane Elhaddaji Language Stats" />    
   <img src="https://github-readme-stats.vercel.app/api?username=elhaddajiotmane&theme=radical" alt="Otmane El Haddaji GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Otmane Elhaddaji GitHub Streak Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elhaddajiOtmane&theme=dark&hide_border=true" alt="GitHub Streak" /></a> 
 </div>
 
 <div align="center">
