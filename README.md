@@ -49,7 +49,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/images/github-contribution-grid-snake.gif" alt="GitHub contribution grid snake animation" />
+  <img src="./assets/images/github-user-contribution.svggithub-user-contribution.svg" alt="GitHub contribution grid snake animation" />
 </div>
 
 <div align="center">
