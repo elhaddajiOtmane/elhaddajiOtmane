@@ -12,11 +12,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elhaddajiotmane&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Otmane Elhaddaji GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🏆_Commits-gold?style=for-the-badge" alt="Commits Trophy" />
+  <img src="https://img.shields.io/badge/🏆_Followers-gold?style=for-the-badge" alt="Followers Trophy" />
+  <img src="https://img.shields.io/badge/🏆_Repositories-gold?style=for-the-badge" alt="Repositories Trophy" />
+  <img src="https://img.shields.io/badge/🏆_Stars-gold?style=for-the-badge" alt="Stars Trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elhaddajiotmane&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Otmane Elhaddaji GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🏆_MultiLanguage-gold?style=for-the-badge" alt="MultiLanguage Trophy" />
+  <img src="https://img.shields.io/badge/🏆_Issues-gold?style=for-the-badge" alt="Issues Trophy" />
+  <img src="https://img.shields.io/badge/🏆_PullRequests-gold?style=for-the-badge" alt="PullRequest Trophy" />
 </div>
 
 <h2 align="left">My Learning Journey</h2>
@@ -33,17 +38,13 @@
 
 ### Connect with me:
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/elhaddaji-otmane/fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddaji-otmane/fr)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmane_tech)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/AYA3utUdIt6F)
 
-[//]: # ([![Discord]&#40;https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&#41;]&#40;https://discord.gg/otmane_e7&#41;)
-
-[//]: # ([![Dev.to]&#40;https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white&#41;]&#40;https://dev.to/otmaneelhaddaji&#41;)
-[//]: # ([![Facebook]&#40;https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&#41;]&#40;https://fb.com/elhaddajiotmane&#41;)
-
-
+[//]: # "[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otmane_e7)"
+[//]: # "[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/otmaneelhaddaji)"
+[//]: # "[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/elhaddajiotmane)"
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
@@ -59,9 +60,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elhaddajiotmane&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="Otmane Elhaddaji Language Stats" />    
-  <img src="https://github-readme-stats.vercel.app/api?username=elhaddajiotmane&theme=radical" alt="Otmane El Haddaji GitHub Stats" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=elhaddajiOtmane" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=elhaddajiotmane&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="Otmane Elhaddaji Language Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=elhaddajiotmane&theme=radical&hide_border=true" alt="Otmane El Haddaji GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elhaddajiOtmane&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
