@@ -28,7 +28,7 @@
 <ul>
     <li>☁️ <strong>AWS Certifications</strong>: <strong>AWS Certified Solutions Architect – Associate</strong> — designing and implementing scalable, secure, and robust solutions on AWS.</li>
     <li>🏅 <strong>Credly Credential</strong>:<br/>
-      <a href="https://www.credly.com/users/elhaddaji-otmane" target="_blank" rel="noreferrer">
+      <a href="https://www.credly.com/badges/4f2d6061-100b-4397-9fc5-b9d889e0b519/public_url" target="_blank" rel="noreferrer">
         <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate Badge" width="120" height="120"/>
       </a>
     </li>
