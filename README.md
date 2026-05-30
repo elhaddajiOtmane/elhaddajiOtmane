@@ -30,7 +30,7 @@ Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
 <ul>
     <li>☁️ <strong>AWS Certifications</strong>: <strong>AWS Certified Solutions Architect – Associate</strong> — designing and implementing scalable, secure, and robust solutions on AWS.</li>
     <li>🏅 <strong>Credly Credential</strong>:<br/>
-      <a href="https://www.credly.com/users/elhaddaji-otmane" target="_blank" rel="noreferrer">
+      <a href="https://www.credly.com/badges/4f2d6061-100b-4397-9fc5-b9d889e0b519/public_url" target="_blank" rel="noreferrer">
         <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate Badge" width="120" height="120"/>
       </a>
     </li>
@@ -40,7 +40,7 @@ Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddaji-otmane/fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddaji-otmane)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmane_tech)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/AYA3utUdIt6F)
 
