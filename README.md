@@ -1,5 +1,7 @@
 <h1 align="center">Otmane Elhaddaji - Expert Web Developer</h1>
- 
+
+Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
+
 <center><img src="./img/elhaddajiotmane_banner.webp" alt="Otmane Elhaddaji LinkedIn Banner" /></center>
 
 <h2 align="center">About Me</h2>
