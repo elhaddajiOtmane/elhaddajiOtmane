@@ -35,7 +35,7 @@ Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
       </a>
     </li>
     <li>🌐 <strong>Microsoft Azure</strong>: Exploring Microsoft Azure to gain a broader understanding of multi-cloud strategies and services.</li>
-    <li>📝 <strong>Tech Blogging</strong>: Regularly sharing my learning experiences and insights on tech trends on my <a href="https://webnexa.net/blog" title="Visit Elhaddaji Otmane's tech blog">tech blog</a>.</li>
+    <li>📝 <strong>Tech Blogging</strong>: Regularly sharing my learning experiences and insights on tech trends on my <a href="https://otmane.net/blog/" title="Visit Elhaddaji Otmane's tech blog">tech blog</a>.</li>
 </ul>
 
 ### Connect with me:
