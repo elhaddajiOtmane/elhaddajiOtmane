@@ -1,12 +1,25 @@
 <h1 align="center">Otmane Elhaddaji - Expert Web Developer</h1>
 
-Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
+Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York — and the founder of **[JurisVoice](https://jurisvoice.com/)** 📞
 
 <center><img src="./img/elhaddajiotmane_banner.webp" alt="Otmane Elhaddaji LinkedIn Banner" /></center>
 
 <h2 align="center">About Me</h2>
 <p align="center">
- I'm Otmane, an accomplished web developer with a strong background in full-stack development. I've collaborated with prominent companies in the tech industry, honing my skills and expertise. As a recent graduate of a prestigious coding bootcamp, I've acquired the knowledge to craft dynamic web applications. I'm driven by a passion for tackling complex challenges with innovative solutions. For project discussions or questions, please contact me via email.
+ I'm Otmane, an accomplished web developer with a strong background in full-stack development. I've collaborated with prominent companies in the tech industry, honing my skills and expertise. As a recent graduate of a prestigious coding bootcamp, I've acquired the knowledge to craft dynamic web applications. I'm driven by a passion for tackling complex challenges with innovative solutions. Right now I'm channeling that passion into building <a href="https://jurisvoice.com/"><strong>JurisVoice</strong></a> — an AI voice receptionist for law firms. For project discussions or questions, please contact me via email.
+</p>
+
+<h2 align="center">🚀 What I'm Building</h2>
+<div align="center">
+  <a href="https://jurisvoice.com/">
+    <img src="https://img.shields.io/badge/JurisVoice-Never_Miss_A_Case-0066FF?style=for-the-badge&logoColor=white" alt="JurisVoice — Never miss a case" />
+  </a>
+</div>
+<p align="center">
+  <strong><a href="https://jurisvoice.com/">JurisVoice</a></strong> is an AI voice receptionist for immigration &amp; personal injury law firms.<br/>
+  It answers every call 24/7, qualifies new case inquiries, books consultations, and syncs intake straight into the firm's CRM —<br/>
+  trilingual out of the box (English 🇺🇸 · Spanish 🇪🇸 · Arabic 🇲🇦).<br/>
+  <em>Built solo, end-to-end: FastAPI · React · Docker · AWS · Voice AI (GPT-4o Realtime, Deepgram, ElevenLabs) · Twilio</em>
 </p>
  
 <div align="center">
@@ -43,6 +56,7 @@ Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddaji-otmane)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmane_tech)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/AYA3utUdIt6F)
+[![JurisVoice](https://img.shields.io/badge/JurisVoice-0066FF?style=for-the-badge&logoColor=white)](https://jurisvoice.com/)
 
 [//]: # "[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otmane_e7)"
 [//]: # "[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/otmaneelhaddaji)"
