@@ -2,7 +2,7 @@
 
 Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York — and the founder of **[JurisVoice](https://jurisvoice.com/)** 📞
 
-<center><img src="./img/elhaddajiotmane_banner.webp" alt="Otmane Elhaddaji LinkedIn Banner" /></center>
+<center><img src="./img/otmane_banner_infrastructure_operations_trimmed.webp" alt="Otmane Elhaddaji - IT Infrastructure & Operations" /></center>
 
 <h2 align="center">About Me</h2>
 <p align="center">
@@ -55,7 +55,7 @@ Hi, I'm **Otmane Elhaddaji**, a full-stack engineer based in New York — and th
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhaddaji-otmane)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otmane_tech)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/AYA3utUdIt6F)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swe.otmane)
 [![JurisVoice](https://img.shields.io/badge/JurisVoice-0066FF?style=for-the-badge&logoColor=white)](https://jurisvoice.com/)
 
 [//]: # "[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/otmane_e7)"
